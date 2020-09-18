@@ -1,0 +1,1 @@
+Uczelniany projekt aplikacji dla systemu android 'POGODA' android studio używający api, które pobiera informacje jakie zachmurzenie występuje w danej lokalizacji.
